@@ -1,20 +1,20 @@
 
-<h1 align="center">Hi 👋, Myself Dark  </h1>
-<h3 align="center">A Dedicated Security Researcher and Ethical Hacker </h3>
+<h3 align="center">Hi 👋, Myself Dark  </h3>
+<h4 align="center">A Dedicated Security Researcher and Ethical Hacker </h4>
 
 
 
 
-## 💫 About Me:
+#### 💫 About Me:
 
 🔭I'm currently working on Vajra  <br>👯I'm looking to collaborate on Ranshell or Android RAT<br>🤝I'm looking for help with Vajra<br>🌱I'm currently learning Digital Forensics , Cybercrime Investigation & Web Dev <br>💭Ask me about Ethical hacking, Forensic, OSINT, AI<br>⚡Fun Fact : First I'm a teetotaler and second I ain't an anime fan
 
 
-## 🌐 Socials:
+#### 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kurious_kakashi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pookielinuxuser@tutamail.com) 
 
 
-# 💻 Tech Stack:
+#### 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -44,26 +44,20 @@
 
 
 
-
-
-# 📊 GitHub Stats:
+#### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gigachad80&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gigachad80&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gigachad80&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+#### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=gigachad80&theme=juicyfresh)](https://github.com/gigachad80/github-profile-trophy)
  
 
-
----
-[![](https://visitcount.itsvg.in/api?id=gigachad80&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 🐳 Holopin badges
+#### 🐳 Holopin badges
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![@gigacgad75's Holopin board](https://holopin.me/gigachad80)](https://holopin.io/@gigachad80)
 
-## 📊 Contribution Graph 
+#### 📊 Contribution Graph 
 
 [![Dark's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gigachad80&theme=chartreuse-dark)](https://github.comm/gigachad80/github-readme-activity-graph)
