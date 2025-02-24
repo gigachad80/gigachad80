@@ -47,6 +47,9 @@
 #### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gigachad80&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gigachad80&theme=vision-friendly-dark&hide_border=false)<br/>
+
+![](https://nirzak-streak-stats.vercel.app?user=gigachad80&theme=vision-friendly-dark&mode=weekly)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gigachad80&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 #### 🏆 GitHub Trophies
