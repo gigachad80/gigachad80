@@ -15,6 +15,12 @@
 
 
 #### 💻 Tech Stack:
+![OWASP](https://img.shields.io/badge/OWASP-%23425cbb.svg?style=for-the-badge&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-%233f72af.svg?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%233498db.svg?style=for-the-badge&logo=wireshark&logoColor=)
+![Parrot Security](https://img.shields.io/badge/Parrot_Security-%23121011.svg?style=for-the-badge&logo=parrot-security&logoColor=)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23268BDB.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -40,6 +46,9 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=ffdd54) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-%23268BDB.svg?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-%23DA7756.svg?style=for-the-badge&logo=claude&logoColor=black)
+![Langflow](https://img.shields.io/badge/langflow-%23121011.svg?style=for-the-badge&logo=langflow&logoColor=white)
 
 
 
