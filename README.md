@@ -50,7 +50,7 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-%23268BDB.svg?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-%23DA7756.svg?style=for-the-badge&logo=claude&logoColor=black)
-![Langflow](https://img.shields.io/badge/langflow-%23000000.svg?style=for-the-badge&logo=langflow&logoColor=white)
+
 
 
 
