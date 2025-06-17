@@ -2,9 +2,6 @@
 <h3 align="center">Hi 👋, Myself Dark  </h3>
 <h4 align="center">A Dedicated Security Researcher and Ethical Hacker </h4>
 
-
-
-
 #### 💫 About Me:
 
 🔭I'm currently working on Vajra  <br>👯I'm looking to collaborate on Ranshell or Android RAT<br>🤝I'm looking for help with Vajra<br>🌱I'm currently learning Digital Forensics , Cybercrime Investigation & Web Dev
@@ -68,8 +65,8 @@
 
 #### 🐳 Holopin badges
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 [![@gigacgad75's Holopin board](https://holopin.me/gigachad80)](https://holopin.io/@gigachad80)
+
 
 #### 📊 Contribution Graph 
 
