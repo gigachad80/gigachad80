@@ -65,7 +65,7 @@
 
 #### 🐳 Holopin badges
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![@gigacgad75's Holopin board](https://holopin.me/gigachad80)](https://holopin.io/@gigachad80
+[![@gigacgad75's Holopin board](https://holopin.me/gigachad80)](https://holopin.io/@gigachad80)
 
 
 #### 📊 Contribution Graph 
