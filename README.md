@@ -58,6 +58,7 @@
 ![](https://nirzak-streak-stats.vercel.app?user=gigachad80&theme=vision-friendly-dark&mode=weekly)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gigachad80&langs_count=30&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gigachad80&theme=vision_friendly_dark&utcOffset=8)
 
 #### 🏆 GitHub Trophies
