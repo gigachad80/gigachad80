@@ -6,7 +6,7 @@
 
 🔭I'm currently working on Vajra  <br>👯I'm looking to collaborate on Ranshell or Android RAT<br>🤝I'm looking for help with Vajra<br>🌱I'm currently learning Digital Forensics , Cybercrime Investigation & Web Dev
 <br>💭Feel free to ask me about Ethical Hacking, Digital Forensics, OSINT, or AI.
-You can also send me cybercrime case scenarios to solve via email.<br>⚡Fun Fact : I'm not an anime fan
+You can also send me cybercrime case scenarios to solve via email. Will do my best to help🙂🤞<br>⚡Fun Fact : I'm not an anime fan
 
 
 
