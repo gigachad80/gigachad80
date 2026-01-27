@@ -6,7 +6,7 @@
 
 🔭I'm currently working on Vajra  <br>👯I'm looking to collaborate on Ranshell or Android RAT<br>🤝I'm looking for cybercrime cases to solve. You can also send me cybercrime case scenarios to solve via email. Will do my best to help🙂🤞<br>🌱I'm currently learning Digital Forensics , Cybercrime Investigation & Web Dev
 <br>💭Feel free to ask me about Ethical Hacking, Digital Forensics, OSINT, or AI.
-<br>⚡Fun Fact : I'm not an anime fan
+<br>⚡Fun Fact : I'm not an anime fan, Potterhead, Swiftie, or film buff. I'm a bibliophile (esp. O. Henry, Poe, Satyajit Ray, Conan Doyle) who also loves horror, thriller, and murder mystery podcasts. Feel free to suggest any book or podcast
 
 
 
